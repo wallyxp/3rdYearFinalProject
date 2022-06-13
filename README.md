@@ -1,5 +1,5 @@
 
-# 3rd Year Final Project - WeatherApp
+# Project - WeatherApp
 
 - Project Author : Debjyoti Nandi, Section A Roll 11 Enrollment : 12019002002012
 
